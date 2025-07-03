@@ -32,7 +32,7 @@ Maintenant que nous avons compris l'intérêt de déployer des VLANs dans notre 
 ---
 # Schéma réseau
 
-![[schema-reseau.png]]
+![img](schema-reseau.png)
 
 
 ---
