@@ -42,6 +42,6 @@ L’objectif principal est de mettre en œuvre une politique de cybersécurité 
 
 ## Membres de l’équipe
 
-- **Kevin** — Rôle 
-- **Djilalala** — Rôle
+- **Kevin**
+- **Djilalala**
 
