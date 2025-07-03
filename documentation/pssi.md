@@ -423,7 +423,7 @@ L’analyse des risques permet d’identifier les menaces, évaluer les vulnéra
 ## Tableau de criticité
   
 
-![[tableau-criticité.png]]
+![img](tableau-criticité.png])
 
   
 
